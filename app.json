@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ZeroPollution",
+    "slug": "ZeroPollution",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/plano.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/img/logo.png"
+    }
+  }
+}
